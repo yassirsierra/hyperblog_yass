@@ -1,16 +1,19 @@
 body{
     
-    color:rgb(0, 89, 255);
+    color:rgba(34, 107, 243, 0.719);
     text-align : left;
-    font-family : "Arial";
+    font-family : cursive;
+    text-transform : 1px double;
+    margin:6px;
+    padding-inline: 3px;
 }
 
 
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 2em;
     text-align: left;
-    border: 1px solid rgb(27, 224, 224);
+    border: 5px solid rgba(224, 27, 175, 0.74);
     font-size: 16px;
     margin: 0 auto;
 }
