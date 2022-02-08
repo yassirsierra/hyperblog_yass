@@ -1,10 +1,9 @@
 body{
     
-<<<<<<< HEAD
+
     color:rgba(34, 107, 243, 0.719);
-=======
+
     color:rgba(241, 105, 13, 0.979);
->>>>>>> cabecera
     text-align : left;
     font-family : cursive;
     text-transform : 1px double;
@@ -25,11 +24,10 @@ body{
     width: 70%;
     padding: 2em;
     text-align: left;
-<<<<<<< HEAD
-    border: 5px solid rgba(224, 27, 175, 0.74);
-=======
+    
+
     border: 1px solid rgba(16, 241, 148, 0.979);
->>>>>>> cabecera
+
     font-size: 16px;
     margin: 0 auto;
 }
